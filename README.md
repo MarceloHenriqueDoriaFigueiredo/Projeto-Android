@@ -4,10 +4,10 @@
 # Sobre
 O mini projeto android tem como objetivo criar um site de noticias sobre tecnologia e também aplicando a responsividade sobre o site.
 
-# Imagens
+# Versão para Desktop:
 ![image](https://user-images.githubusercontent.com/68343463/156766610-59498635-0712-4444-be11-438626bb9462.png)
 
-# Resonsivo
+# Versão para Mobile:
 ![image](https://user-images.githubusercontent.com/68343463/156767008-05f67962-5d10-4c5c-a963-4c8126c1e9fa.png)
 
 # Tecnologias utilizadas
